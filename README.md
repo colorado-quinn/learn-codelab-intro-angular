@@ -8,6 +8,12 @@ Duplicated from:
 
 https://github.com/angular/introduction-to-angular
 
+TODO:
+  - The data is hard-coded in the app. A great refactor is to add a service to contain the data.
+  - The details page is currently displayed on the same page, but it would be cool to move the details to their own page and take advantage of Angular routing.
+  - One other update would be to host the data at a rest endpoint and use the HTTP package in Angular to load the data at runtime.
+
+
 <br />
 <br />
 <br />
