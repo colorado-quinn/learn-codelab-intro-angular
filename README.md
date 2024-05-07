@@ -4,7 +4,7 @@ https://codelabs.developers.google.com/introduction-to-angular
 
 https://www.youtube.com/watch?v=qxchrt04bTA
 
-Cloned from:
+Duplicated from:
 
 https://github.com/angular/introduction-to-angular
 
